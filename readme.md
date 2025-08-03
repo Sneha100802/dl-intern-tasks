@@ -7,16 +7,26 @@ This repository contains assignments for a deep learning internship, organized i
 ## Folder Structure
 
 requirements.txt
+
 assignment1/
+
     scored_posts.csv
+    
     sentiment_model.pkl
+    
     sentiment_scoring.ipynb
+    
     data/
         comments.csv
+        
         engagement.csv
+
 assignment2/
+
     recommendation_system.ipynb
+    
     data/
+    
         users.csv
 
 ## Setup
