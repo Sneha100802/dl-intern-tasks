@@ -1,0 +1,4 @@
+user_id,preferred_categories,historical_avg_sentiment,avg_engagement_time
+201,"['tutorial', 'case-study']",0.8,200
+202,['opinion'],-0.3,120
+203,"['tutorial', 'opinion']",0.5,250
